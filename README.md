@@ -34,8 +34,6 @@
 
 - Python - 100%
 
- -Html - 70%
-
 - Java - 70%
 
 - C Programming -90%
