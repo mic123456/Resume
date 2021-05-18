@@ -34,7 +34,7 @@
 
 - Python - 100%
 
--Html - 70%
+ -Html - 70%
 
 - Java - 70%
 
@@ -51,10 +51,11 @@
 - Playing Carroms<br>
 
 ### *Strengths & Weaknesses*
-- Strengths:
-    - Hardwork
-    - Logical thinking
-    -Adaptive Nature
+  - Strengths:
+  - Hardwork
+  - Logical thinking
+  -Adaptive Nature
+  
   - Weaknesses:
   - No weaknesses in particular
  
